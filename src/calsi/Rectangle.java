@@ -19,7 +19,7 @@ public class RectangleArea {
         double area = length * width;
 
         // Display the area of the rectangle
-        System.out.println("The area of the rectangle is: " + area);
+        System.out.println("The area of the rectangle is: harika" + area);
     }
 }
 
